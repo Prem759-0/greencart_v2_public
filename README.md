@@ -202,13 +202,14 @@ curl http://localhost:4000/api/product/list
 
 ---
 
-## � License
-ISC License
+
 
 ---
 
 ## 📞 Support
 Open an issue on the GitHub repository for any questions.
+Email - a70064182@gmail.com
+ My WhatsApp Phone no - 9619111051
 
 ---
 
