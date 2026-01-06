@@ -128,8 +128,10 @@ grencart/
 ---
 
 ## 🔐 Authentication
-- **Default Seller**: `admin@greencart.com` / password set in `.env` (`SELLER_PASSWORD`).
-- Regular users can register via the **Sign‑Up** page.
+- **Default Seller Login**:
+  - Email: `admin@gmail.com`
+  - Password: `admin123`
+- 
 
 ---
 
